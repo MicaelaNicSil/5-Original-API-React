@@ -10,15 +10,13 @@ export default function Post() {
                 <span className="postCat"></span>
             </div>
             <span className="postTitle">
-                hello i have mental problems and I feel HoRrIble
+               This is a post title
             </span>
             <hr/>
             <span className="postDate">1 hour ago</span>
         </div>
         <p className="postDesc">
-          kdfgkmdfgkfg jfgf gjkdsf ggereg eg ewg ewgeg eg ewg eg eg g ewg we gr
-          egiermgioweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeogggggggggggggggg
-          gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+          This is a post description!
         </p>
     </div>
     
